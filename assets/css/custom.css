@@ -17,5 +17,6 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "BBH Sans Bogle", sans-serif;
 }
 
-.nav {
-  background-color: #ff6700
+.header.header-color-dark {
+  background-color: #ff6700;
+}

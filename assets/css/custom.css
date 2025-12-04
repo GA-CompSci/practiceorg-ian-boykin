@@ -21,8 +21,6 @@ h1, h2, h3, h4, h5, h6 {
   background-color: #ff6700;
 }
 
-<!-- Mets orange button CSS -->
-<style>
 .mets-orange {
     background-color: #FF5910;
     border-color: #FF5910;
@@ -35,4 +33,3 @@ h1, h2, h3, h4, h5, h6 {
     border-color: #CC4600;
     color: white;
 }
-</style>
